@@ -1,7 +1,3 @@
-## Prerequisites
-
-Before using this script, make sure you have [Python](https://www.python.org/downloads/) installed on your system.
-
 ## How to Use?
 
 `✅ Step 1.` Clone the repo, navigate to the proj dir and run the script:
